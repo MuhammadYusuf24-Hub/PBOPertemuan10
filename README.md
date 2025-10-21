@@ -23,7 +23,7 @@ Kelas BufferedReader digunakan untuk membaca teks dari input stream secara efisi
  <img width="940" height="523" alt="image" src="https://github.com/user-attachments/assets/7674e41e-90b6-4b5a-9aba-7c59497d66a7" />
  <img width="896" height="658" alt="image" src="https://github.com/user-attachments/assets/6e6cae69-efa8-4f84-b49d-584cc22bd55c" />
 
-Jangan lupa tambahkan juga import berikut pada bagian atas program 
+Jangan lupa tambahkan juga import berikut pada bagian atas program   
  <img width="481" height="173" alt="image" src="https://github.com/user-attachments/assets/9b65b63a-10f1-4dc3-a603-069e5778db48" />
 
 4.	Buat 9 data di excel dengan format csv 
