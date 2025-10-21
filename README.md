@@ -1,7 +1,7 @@
 # PBOPertemuan10
 Dalam pengolahan data berbasis database, proses input data secara manual sering memakan waktu lama dan rawan kesalahan. Untuk mengatasi hal ini, dibutuhkan cara yang lebih efisien yaitu dengan mengimpor data dari file eksternal seperti CSV (Comma Separated Values).
 
-Pada praktikum ini dilakukan pembuatan fitur Upload File CSV menggunakan Java GUI (NetBeans) yang terhubung dengan database MySQL. Dengan adanya tombol upload, data dapat dimasukkan ke tabel database secara otomatis hanya dengan memilih file CSV yang berisi data minuman.  
+Pada praktikum ini dilakukan pembuatan fitur Upload File CSV menggunakan Java GUI (NetBeans) yang terhubung dengan database PostgreSQL. Dengan adanya tombol upload, data dapat dimasukkan ke tabel database secara otomatis hanya dengan memilih file CSV yang berisi data minuman.  
 
 # CSV (Comma Separated Values)  
 CSV adalah format file teks sederhana yang digunakan untuk menyimpan data dalam bentuk tabel, di mana setiap kolom dipisahkan oleh tanda koma atau titik koma (;). CSV sering digunakan karena mudah dibaca oleh manusia maupun program.
